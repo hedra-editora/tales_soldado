@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  5 FEB 2019 13:13
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  5 FEB 2019 13:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1583,7 +1583,10 @@ Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
  [7] [8
 
-] [9] [10] [11] [12] [13] [14]
+] [9]
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+ [10] [11] [12] [13] [14]
 [15]
 Unknown feature `protrusion=default' in font `Linux Libertine O Semibold Italic
 '.
@@ -1600,9 +1603,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 414.
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
+Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
+Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
  [21
 
-] [22] [23] [24] [25] [26] [27] [28] [29]
+] [22] [23] [24] [25] [26] [27]
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+ [28] [29]
 [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44]
 [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59]
 [60] [61] [62] [63] [64] [65] [66] [67] [68] [69]
@@ -1622,7 +1630,10 @@ rasileira
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
  [103] [104] [105] [106] [107]
-[108] [109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119]))
+[108] [109] [110] [111] [112] [113] [114] [115] [116]
+Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
+Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
+ [117] [118] [119]))
 [120] [121] 
 AED: lastpage setting LastPage
 \openout2 = `PUBLICIDADE.aux'.
@@ -1657,12 +1668,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  (./LIVRO.aux (./INPUTS.aux)
 (./PUBLICIDADE.aux)) ) 
 Here is how much of TeX's memory you used:
- 26126 strings out of 492998
- 478854 string characters out of 6139960
+ 26146 strings out of 492998
+ 479709 string characters out of 6139960
  709913 words of memory out of 5000000
- 29636 multiletter control sequences out of 15000+600000
- 540051 words of font info for 90 fonts, out of 8000000 for 9000
+ 29652 multiletter control sequences out of 15000+600000
+ 540197 words of font info for 94 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
  48i,12n,86p,10345b,412s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (128 pages, 2350232 bytes).
+Output written on LIVRO.xdv (128 pages, 2351160 bytes).
