@@ -1,0 +1,18 @@
+\select@language {brazilian}
+\hyphenpenalty =10000\thispagestyle {empty}
+\contentsline {chapter}{Prólogo}{9}
+\contentsline {chapter}{O Soldado Antropófago}{21}
+\contentsline {section}{I}{21}
+\contentsline {section}{II}{24}
+\contentsline {section}{III}{25}
+\contentsline {section}{IV}{28}
+\contentsline {section}{V}{34}
+\contentsline {section}{VI}{41}
+\contentsline {section}{VII}{53}
+\contentsline {section}{VIII}{61}
+\contentsline {section}{IX}{69}
+\contentsline {section}{X}{78}
+\contentsline {section}{XI}{80}
+\contentsline {section}{XII}{86}
+\contentsline {section}{XIII}{101}
+\contentsfinish 
